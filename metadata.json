@@ -1,0 +1,6 @@
+{
+  "name": "Bestie Care 💗",
+  "description": "A warm, comforting, and playful digital care package for your bestie when she needs love and smiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
